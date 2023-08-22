@@ -35,7 +35,7 @@ This is a brief flowchart of the [(primary logic)](https://github.com/Id-Dark-Dr
 ## Appendix
 
 There is an executed file for Windows (.exe) inside the ```/dist```folder.</br>
-***It is ready to use without*** any need to make your hands dirty with code
+***It is ready to use without*** any need to make your hands dirty with code.
     
 
 
