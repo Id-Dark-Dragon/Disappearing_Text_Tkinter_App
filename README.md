@@ -14,7 +14,7 @@ This app provides a unique writing experience where you need to keep typing to p
 
 ## Advantage
 
-- **Creativity Enhancment:** By trying hard to keep thinking and generating text, you push your limits beyond.
+- **Creativity Enhancement:** By trying hard to keep thinking and generating text, you push your limits beyond.
 - **Increase Productivity:** It won't let you rest when you are typing.
 
 
@@ -25,16 +25,17 @@ This app provides a unique writing experience where you need to keep typing to p
 ```
 
 Some configuratuions are accesible from ```config.py```.
-Also if this is a brief flowchart of the app logic.(flowchart of how this works!)](https://github.com/Id-Dark-Dragon/Disappearing_Text_Tkinter_App/blob/master/github/logic%20Diagram.html)
 
 
 
+## Flowchart
+This is a brief flowchart of the [(primary logic)](https://github.com/Id-Dark-Dragon/Disappearing_Text_Tkinter_App/blob/master/github/logic%20Diagram.png).
 
 
 ## Appendix
 
-There is an excuted file for windows (.exe) inside the ```/dist``` foder.</br>
-***It is ready to use without*** any needs to make your hands dirty with code
+There is an executed file for Windows (.exe) inside the ```/dist```folder.</br>
+***It is ready to use without*** any need to make your hands dirty with code
     
 
 
