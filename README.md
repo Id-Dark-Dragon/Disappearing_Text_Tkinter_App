@@ -1,8 +1,8 @@
 
-# Project Title
+# The Most Dangerous Writing App
 
 
-**The Most Dangerous Writing App** is a simple desktop application built using *CostumeTkinter* in Python. 
+a simple (*and not original*) desktop application built using *CostumeTkinter* in Python. 
 
 This app provides a unique writing experience where you need to keep typing to prevent the text from disappearing. If you stop typing, the text will be removed after a countdown.
 
