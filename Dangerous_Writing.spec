@@ -5,10 +5,10 @@ block_cipher = None
 
 
 a = Analysis(
-    ['main.py'],
+    ['run.py'],
     pathex=[],
     binaries=[],
-    datas=["Dangerous_Writing/resources/Tick.mp3"],
+    datas=[('tick.mp3', '.')],
     hiddenimports=[],
     hookspath=[],
     hooksconfig={},
